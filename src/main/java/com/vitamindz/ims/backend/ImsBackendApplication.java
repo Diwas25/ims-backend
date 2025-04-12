@@ -10,7 +10,7 @@ public class ImsBackendApplication {
 
 		SpringApplication.run(ImsBackendApplication.class, args);
 
-		System.out.println("Application is running !!");
+		System.out.println("IMS Backend Application is running !!");
 	}
 
 }
